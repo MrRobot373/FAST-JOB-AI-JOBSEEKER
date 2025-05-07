@@ -13,7 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 genai.configure(
     api_key=os.environ.get(
         "GEMINI_API_KEY",
-        "AIzaSyAQMebPFPab6q2l_59t6ySyDiywpWKaspo"
+        "AIzaSyAI7lzHO-MfOEMYM0ttQdY230wTVMx_4Rs"
     )
 )
 
