@@ -296,7 +296,7 @@ from typing import Optional, Dict
 genai.configure(
     api_key=os.environ.get(
         "GEMINI_API_KEY",
-        "AIzaSyCPg-kwf9cAAjHkMCDVYY_t9yLNgC_StvM"
+        "AIzaSyBBfDoYBrMxc4XLihNoOoizFEAC7eAA184"
     )
 )
 
