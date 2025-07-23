@@ -3,3 +3,6 @@ uvicorn
 pydantic
 google-generativeai
 python-multipart
+uvloop==0.19.0
+httptools==0.6.1
+gunicorn==21.2.0
