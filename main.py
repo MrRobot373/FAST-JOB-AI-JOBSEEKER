@@ -122,6 +122,7 @@ Then generate **20 interview questions with full, descriptive answers**:
 
 - Ensure Q and A are on separate lines
 - Infer answers professionally even if information is limited
+- Make sure DO NOT ASK CODING QUESTION OR CODE (DONT GIVE ANSWER IN CODE)
 {source_instruction}
 
 {jd_section}
