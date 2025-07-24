@@ -783,7 +783,7 @@ async def general_exception_handler(request: Request, exc: Exception):
 # -----------------------------------------------------------------------------
 # Production Uvicorn Configuration with Optimal Settings
 # -----------------------------------------------------------------------------
-if __name__ == "__main__"
+if __name__ == "__main__":
     config = {
         "app": "main:app",
         "host": "0.0.0.0",
