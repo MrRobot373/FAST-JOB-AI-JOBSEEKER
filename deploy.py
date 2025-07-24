@@ -674,7 +674,7 @@ async def generate_qa_api(
         logger.info(f"✅ [{request_id}] Q&A generation completed")
         
         return {
-            "qa_output": result,
+            "qa": result,
             "request_id": request_id,
             "user_id": user_id,
             "timestamp": datetime.utcnow().isoformat(),
